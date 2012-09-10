@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>nqnzwfcbbare@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Adam Spooner</string>
+	<key>description</key>
+	<string>Ensure a newline exists at the end of the file after saving.</string>
+	<key>name</key>
+	<string>Ensure Newline at EOF on Save</string>
+	<key>uuid</key>
+	<string>2F6988BA-DB49-41F9-85C0-49380FC25CB3</string>
+</dict>
+</plist>
